@@ -1,0 +1,11 @@
+C:\Users\snayp\source\repos\ShahStore\ShahStore\bin\Debug\ShahStore.exe.config
+C:\Users\snayp\source\repos\ShahStore\ShahStore\bin\Debug\ShahStore.exe
+C:\Users\snayp\source\repos\ShahStore\ShahStore\bin\Debug\ShahStore.pdb
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.csproj.AssemblyReference.cache
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.Form1.resources
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.Form2.resources
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.Properties.Resources.resources
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.csproj.GenerateResource.cache
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.csproj.CoreCompileInputs.cache
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.exe
+C:\Users\snayp\source\repos\ShahStore\ShahStore\obj\Debug\ShahStore.pdb
